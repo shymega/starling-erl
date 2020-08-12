@@ -1,9 +1,10 @@
 starling-erl
-=====
+============
 
 A Erlang library for Starling Bank.
 
-Build
------
+## Disclaimer
 
-    $ rebar3 compile
+This library is **unofficial**, and not associated
+formally with Starling Bank. It is a hobbyist project by
+myself.
