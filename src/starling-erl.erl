@@ -1,0 +1,3 @@
+-module(starling-erl).
+
+-export([]).
