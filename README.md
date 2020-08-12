@@ -1,7 +1,7 @@
 starling-erl
 =====
 
-A Erlang SDK for Starling Bank.
+A Erlang library for Starling Bank.
 
 Build
 -----
